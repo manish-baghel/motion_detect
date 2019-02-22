@@ -1,1 +1,1 @@
-Motion Dection
+MOTION DETECTION
